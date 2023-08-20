@@ -1,1 +1,2 @@
-hello Hien xinh dep 
+echo "hello Hien xinh dep"
+
